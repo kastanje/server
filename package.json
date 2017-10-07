@@ -1,0 +1,22 @@
+{
+  "name": "kastanje-server",
+  "version": "0.0.0",
+  "description": "creates a net.Server or tls.Server",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "http.Server",
+    "net.Server",
+    "tls.Server",
+    "kastanje server"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kastanje/server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kastanje/server/issues"
+  },
+  "homepage": "https://github.com/kastanje/server#readme"
+}
